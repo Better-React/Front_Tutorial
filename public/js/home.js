@@ -66,3 +66,10 @@ const makeCards = (id, data) => {
         }
     })
 }
+
+function loadReal(img) {
+    if (img.display != "none") {
+                    img.onload = null;
+                    img.src = img.getAttribute("data-src");
+    }
+}
