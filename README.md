@@ -4,20 +4,20 @@ http://15.164.186.163
 
 ## Before
 
-- First load(Empty cache, Fast 3G)
-![Empty cache, Fast 3G](.README_images/Before_EmptyCache_Fast3G.PNG)
+- First load(Empty cache, Fast 3G)   
+![Empty cache, Fast 3G](.README_images/Before_EmptyCache_Fast3G.PNG)   
 
 
-- Second load(Fast 3G)
-![Second load, Fast 3G](.README_images/Before_Secondload_Fast3G.PNG)
+- Second load(Fast 3G)    
+![Second load, Fast 3G](.README_images/Before_Secondload_Fast3G.PNG)   
 
 
-- Google PageSpeed(Mobile)
-![Google PageSpeed(Mobile)](.README_images/Before_PageSpeed_Mobile.PNG)
+- Google PageSpeed(Mobile)     
+![Google PageSpeed(Mobile)](.README_images/Before_PageSpeed_Mobile.PNG)   
 
 
-- Google PageSpeed(Desktop)
-![Google PageSpeed(Desktop)](.README_images/Before_PageSpeed_Desktop.PNG)
+- Google PageSpeed(Desktop)     
+![Google PageSpeed(Desktop)](.README_images/Before_PageSpeed_Desktop.PNG)   
 
 
 ## Topic
@@ -46,8 +46,8 @@ http://15.164.186.163
 
 ## After
 
-- First load(Empty cache, Fast 3G)
-![Empty cache, Fast 3G](.README_images/After_EmptyCache_Fast3G.JPG)
+- First load(Empty cache, Fast 3G)    
+![Empty cache, Fast 3G](.README_images/After_EmptyCache_Fast3G.JPG)    
 Requests: 330 -> 329  
 Transferred: 8.4 MB -> 8.4 MB  
 resources: 8.4 MB ->  8.3 MB   
@@ -57,8 +57,8 @@ Load: 1.41s -> 1.47 s
   
   
 
-- Second load(Fast 3G)
-![Second load, Fast 3G](.README_images/After_Secondload_Fast3G.JPG)
+- Second load(Fast 3G)    
+![Second load, Fast 3G](.README_images/After_Secondload_Fast3G.JPG)     
 Requests: 323 -> 335   
 Transferred: 99.1 kB -> 835 kB  
 resources: 7.9 MB ->  8.5 MB  
@@ -67,8 +67,8 @@ DOMContentLoaded: 1.20s -> 1.81 s
 Load: 1.20s -> 1.81 s  
 
 
-- Google PageSpeed(Mobile)
-![Google PageSpeed(Mobile)](.README_images/After_PageSpeed_Mobile.JPG)
+- Google PageSpeed(Mobile)     
+![Google PageSpeed(Mobile)](.README_images/After_PageSpeed_Mobile.JPG)    
 Score: 71 -> 67    
 First Contentful Paint: 0.8 s -> 0.8 s    
 Speed Index: 1.5 s -> 1.5 s   
@@ -77,8 +77,8 @@ Time to Interactive: 4.1 s -> 6.3 s
 Total Blocking Time: 1,970 ms -> 3,470 ms    
 Cumulative Layout Shift: 0 -> 0   
 
-- Google PageSpeed(Desktop)
-![Google PageSpeed(Desktop)](.README_images/After_PageSpeed_Desktop.JPG)
+- Google PageSpeed(Desktop)    
+![Google PageSpeed(Desktop)](.README_images/After_PageSpeed_Desktop.JPG)    
 Score: 92 -> 99    
 First Contentful Paint: 0.3 s -> 0.3 s    
 Speed Index: 0.7 s -> 0.9 s   
